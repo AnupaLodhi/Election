@@ -12,7 +12,8 @@ Built for the Google Cloud × Hack2Skill Hackathon 2025.
 Screenshots
 
 | Home Screen | Role Selection | AI Chat |
-|-------------|---------------|---------|
+<img width="814" height="859" alt="Screenshot 2026-04-22 at 5 40 26 PM" src="https://github.com/user-attachments/assets/158a5399-e147-468b-a3bb-c23a708ab507" />
+
 | ![Home](screenshots/home.png) | ![Roles](screenshots/roles.png) | ![Chat](screenshots/chat.png) |
 
 | Election Timeline | Myth vs Fact |
@@ -24,7 +25,7 @@ Screenshots
 
 Over 26% of eligible Indian voters don't vote — often due to confusion about the process, lack of awareness, or misinformation. Civic education resources are either too complex, not personalised, or unavailable in accessible formats.
 
-**Know Your Vote** solves this by offering a role-aware, AI-powered guide that explains elections simply — for first-time voters, students, senior citizens, rural voters, and NRIs.
+Know Your Vote solves this by offering a role-aware, AI-powered guide that explains elections simply — for first-time voters, students, senior citizens, rural voters, and NRIs.
 
 Features
 
