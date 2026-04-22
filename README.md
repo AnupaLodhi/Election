@@ -4,8 +4,7 @@ An AI-powered Election Education Assistant for every Indian voter.
 Built for the Google Cloud × Hack2Skill Hackathon 2025.
 
 [Live Demo](https://img.shields.io/badge/Live%20Demo-Cloud%20Run-4285F4?style=for-the-badge&logo=google-cloud)](https://your-demo-url.run.app)
-[GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/know-your-vote)
-[License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/AnupaLodhi/Election)
 
 
 
@@ -220,16 +219,12 @@ know-your-vote/
 5. Open a Pull Request
 
 
- License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
 
 
 Author
 
 Anupa Lodhi  
-[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/AnupaLodhi12/a)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/anupalodhi12a/)
 [GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/AnupaLodhi)
 
 
