@@ -13,11 +13,16 @@ Screenshots
 
 | Home Screen | Role Selection | AI Chat |
 <img width="814" height="859" alt="Screenshot 2026-04-22 at 5 40 26 PM" src="https://github.com/user-attachments/assets/158a5399-e147-468b-a3bb-c23a708ab507" />
+<img width="814" height="859" alt="Screenshot 2026-04-22 at 5 42 31 PM" src="https://github.com/user-attachments/assets/2c5ec73c-1a09-4410-b580-850ad82a068c" />
+<img width="814" height="859" alt="Screenshot 2026-04-22 at 5 43 20 PM" src="https://github.com/user-attachments/assets/c3ce6bc9-5bc8-4663-8ae1-3df2cdcc9743" />
+
 
 | ![Home](screenshots/home.png) | ![Roles](screenshots/roles.png) | ![Chat](screenshots/chat.png) |
 
 | Election Timeline | Myth vs Fact |
-|-------------------|--------------|
+<img width="814" height="859" alt="Screenshot 2026-04-22 at 5 44 00 PM" src="https://github.com/user-attachments/assets/5eaffff7-01d8-4e65-8db7-36292128564a" />
+<img width="814" height="859" alt="Screenshot 2026-04-22 at 5 44 31 PM" src="https://github.com/user-attachments/assets/b1c392f6-a02b-4838-a153-6e26bcc89f97" />
+
 | [Timeline](screenshots/timeline.png) | ![Myths](screenshots/myths.png) |
 
 
