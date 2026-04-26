@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: know-your-vote
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npx serve dist -l 10000
+    envVars:
+      - key: NODE_VERSION
+        value: 18
+      - key: ANTHROPIC_API_KEY
+        sync: false
