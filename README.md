@@ -3,7 +3,7 @@
 An AI-powered Election Education Assistant for every Indian voter.
 Built for the Google Cloud × Hack2Skill Hackathon 2025.
 
-[Live Demo](https://img.shields.io/badge/Live%20Demo-Cloud%20Run-4285F4?style=for-the-badge&logo=google-cloud)](https://your-demo-url.run.app)
+[Live Demo](https://anupalodhi.github.io/Election/)
 [GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/AnupaLodhi/Election)
 
 
