@@ -35,11 +35,11 @@ Features
 
 1️⃣ Role-Based Personalisation
 Choose your voter profile — the AI tailors its explanations accordingly:
- 🌱 First-Time Voter
-🎓 Student (18–25)
-🧓 Senior Citizen
-🌾 Rural Voter
-✈️ NRI Voter
+  First-Time Voter
+  Student (18–25)
+  Senior Citizen
+  Rural Voter
+  NRI Voter
 
  2️⃣ Interactive AI Chat (Claude Sonnet)
 Ask anything about Indian elections:
